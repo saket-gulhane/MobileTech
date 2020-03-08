@@ -3,4 +3,5 @@
 
 <h5>index.html</h5>
 <br/>
-<img src="index.png	" width="900"  height="400">
+<br/>
+<img src="index.png" width="900"  height="400">
